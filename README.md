@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi evryone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm salma</h1>
 <h2 align="center">Computer science graduate</h2>
-<img id='gif' align="right" src="https://giantleapslearning.com/wp-content/uploads/2023/03/ai-featured.jpg" width="240">
+<img id='gif' align="right" src="https://giantleapslearning.com/wp-content/uploads/2023/03/ai-featured.jpg" width="390">
 <header align="right">
     <h3 align="left"></h3>
     <h3 align="left">
